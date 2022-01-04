@@ -1,8 +1,14 @@
 {
-    "name": "devnet/mvc-template",
-    "description": "DevNet Web Application (Model-View-Controller)",
+    "name": "mbdevtech/agency",
+    "description": "Agency web site built with Devnet-framework.",
     "type": "devnet-template",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahfoud Bousba",
+            "email": "mahfoudbousba2@gmail.com"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
